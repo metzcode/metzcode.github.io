@@ -71,7 +71,8 @@
 <body>
 
   <header>
-    <img src="logo.jpeg" alt="The Triangle Club Logo">
+   <img src="logo.jpeg" alt="The Triangle Club Logo" style="max-width: 300px; height: auto;">
+  
     <h1>The Triangle Club</h1>
   </header>
 
