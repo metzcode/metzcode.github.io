@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ro">
 <head>
   <meta charset="UTF-8">
@@ -72,7 +71,7 @@
 <body>
 
   <header>
-    <img src="YOUR_LOGO_PATH_HERE.jpeg" alt="The Triangle Club Logo">
+    <img src="logo.jpeg" alt="The Triangle Club Logo">
     <h1>The Triangle Club</h1>
   </header>
 
@@ -82,7 +81,21 @@
       <li><span class="item-name">Pepsi Cola</span><span class="item-size">0.25L</span><span class="item-price">10.00 RON</span></li>
       <li><span class="item-name">Mirinda Orange</span><span class="item-size">0.25L</span><span class="item-price">10.00 RON</span></li>
       <li><span class="item-name">Evervess Tonic</span><span class="item-size">0.25L</span><span class="item-price">10.00 RON</span></li>
-      <!-- Add remaining items similarly -->
+      <li><span class="item-name">7UP Lemon Lime</span><span class="item-size">0.25L</span><span class="item-price">10.00 RON</span></li>
+      <li><span class="item-name">Pepsi Zero</span><span class="item-size">0.25L</span><span class="item-price">10.00 RON</span></li>
+      <li><span class="item-name">Pepsi Twist</span><span class="item-size">0.25L</span><span class="item-price">10.00 RON</span></li>
+      <li><span class="item-name">Rockstar Original</span><span class="item-size">0.25L</span><span class="item-price">10.00 RON</span></li>
+      <li><span class="item-name">Prigat Still Strawberry Banana</span><span class="item-size">0.25L</span><span class="item-price">11.00 RON</span></li>
+      <li><span class="item-name">Prigat Still Peach</span><span class="item-size">0.25L</span><span class="item-price">11.00 RON</span></li>
+      <li><span class="item-name">Prigat Still Orange</span><span class="item-size">0.25L</span><span class="item-price">11.00 RON</span></li>
+      <li><span class="item-name">Lipton Lamaie</span><span class="item-size">0.5L</span><span class="item-price">12.00 RON</span></li>
+      <li><span class="item-name">Lipton Piersici</span><span class="item-size">0.5L</span><span class="item-price">12.00 RON</span></li>
+      <li><span class="item-name">Lipton Mango Pineapple</span><span class="item-size">0.5L</span><span class="item-price">12.00 RON</span></li>
+      <li><span class="item-name">Lipton Green</span><span class="item-size">0.5L</span><span class="item-price">12.00 RON</span></li>
+      <li><span class="item-name">AQUA CARPATICA STILL</span><span class="item-size">0.5L</span><span class="item-price">9.00 RON</span></li>
+      <li><span class="item-name">AQUA CARPATICA SPARKLING</span><span class="item-size">0.5L</span><span class="item-price">9.00 RON</span></li>
+      <li><span class="item-name">AQUA CARPATICA SPARK FORTE</span><span class="item-size">0.5L</span><span class="item-price">9.00 RON</span></li>
+      <li><span class="item-name">AQUA CARPATICA STILL</span><span class="item-size">1L</span><span class="item-price">14.00 RON</span></li>
     </ul>
 
     <h2>Cafea</h2>
@@ -95,20 +108,29 @@
     <h2>Bere Lager la Sticlă</h2>
     <ul>
       <li><span class="item-name">Peroni Nastro Azzurro</span><span class="item-size">0.5L</span><span class="item-price">14.00 RON</span></li>
-      <!-- Continue with other beers -->
+      <li><span class="item-name">Peroni Nastro Azzurro Stile Capri</span><span class="item-size">0.33L</span><span class="item-price">12.00 RON</span></li>
+      <li><span class="item-name">Kozel Premium</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
+      <li><span class="item-name">Kozel Dark</span><span class="item-size">0.33L</span><span class="item-price">10.00 RON</span></li>
+      <li><span class="item-name">Ursus Premium</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
+      <li><span class="item-name">Ursus Retro</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
     </ul>
 
     <h2>Specialități de Bere</h2>
     <ul>
       <li><span class="item-name">Ursus India Pale Ale</span><span class="item-size">0.33L</span><span class="item-price">12.00 RON</span></li>
-      <!-- Continue with others -->
+      <li><span class="item-name">Ursus Black</span><span class="item-size">0.33L</span><span class="item-price">12.00 RON</span></li>
+      <li><span class="item-name">Azuga Weissbier Nefiltrată</span><span class="item-size">0.5L</span><span class="item-price">16.00 RON</span></li>
+      <li><span class="item-name">Azuga Helles Microfiltrata</span><span class="item-size">0.5L</span><span class="item-price">16.00 RON</span></li>
     </ul>
 
-    <h2>Fără Alcool</h2>
-    <ul>
-      <li><span class="item-name">Ursus Fără Alcool</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
-      <!-- Continue with others -->
-    </ul>
+   <h2>Fără Alcool</h2>
+<ul>
+  <li><span class="item-name">Peroni Nastro Azzurro 0.0%</span><span class="item-size">0.33L</span><span class="item-price">12.00 RON</span></li>
+  <li><span class="item-name">Ursus Cooler Grapefruit</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
+  <li><span class="item-name">Ursus Cooler Lemon</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
+  <li><span class="item-name">Ursus Cooler Cherry</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
+</ul>
+
   </section>
 
 </body>
