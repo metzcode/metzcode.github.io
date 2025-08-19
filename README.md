@@ -25,7 +25,7 @@
     h1 {
       margin-top: 10px;
       font-size: 1.8em;
-      color: gold;
+      color: #E3B168;
     }
 
     section {
@@ -38,7 +38,7 @@
       border-bottom: 1px solid gold;
       padding-bottom: 5px;
       margin-top: 40px;
-      color: gold;
+      color: #E3B168;
     }
 
     ul {
